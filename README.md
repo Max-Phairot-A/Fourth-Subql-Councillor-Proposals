@@ -120,5 +120,5 @@ Moreover, we can try to query with the 2nd example code below to prove that the 
 }
 ````
 Finally, we can acquire the output produced by running of the query from the above query code as depicted in below.
-![alt text](Councillor_Proposals_2.png)
+![alt text](Councillor_Proposals_3.png)
 
